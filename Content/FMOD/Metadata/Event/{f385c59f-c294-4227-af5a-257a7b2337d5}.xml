@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="Event" id="{f385c59f-c294-4227-af5a-257a7b2337d5}">
 		<property name="name">
-			<value>mx</value>
+			<value>mx_dynamic</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

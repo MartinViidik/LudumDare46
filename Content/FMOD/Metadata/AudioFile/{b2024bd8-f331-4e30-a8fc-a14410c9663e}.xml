@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b2024bd8-f331-4e30-a8fc-a14410c9663e}">
+		<property name="assetPath">
+			<value>BG LOOPS/LD46 Codename Phoenix SFX V05 - BG LOOP RAIN.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>20.864897959183672</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4a736cfe-fbf4-4a12-a8f6-6bb484da5ee8}</destination>
+		</relationship>
+	</object>
+</objects>

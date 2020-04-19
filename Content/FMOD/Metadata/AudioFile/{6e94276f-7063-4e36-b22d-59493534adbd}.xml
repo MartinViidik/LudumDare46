@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{6e94276f-7063-4e36-b22d-59493534adbd}">
+		<property name="assetPath">
+			<value>LD46 Codename Phoenix SFX V05 - SFX WOOD DEBRIS 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.6489115646258503</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4a736cfe-fbf4-4a12-a8f6-6bb484da5ee8}</destination>
+		</relationship>
+	</object>
+</objects>
