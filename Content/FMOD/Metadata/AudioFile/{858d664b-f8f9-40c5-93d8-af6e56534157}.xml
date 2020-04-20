@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="AudioFile" id="{858d664b-f8f9-40c5-93d8-af6e56534157}">
 		<property name="assetPath">
-			<value>LD46 Codename Phoenix SFX V05 - SFX GRUNT 04.wav</value>
+			<value>GRUNTS/LD46 Codename Phoenix SFX V05 - SFX GRUNT 04.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

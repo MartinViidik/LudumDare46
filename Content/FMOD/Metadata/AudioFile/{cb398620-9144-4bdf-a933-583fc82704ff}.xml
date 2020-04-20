@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="AudioFile" id="{cb398620-9144-4bdf-a933-583fc82704ff}">
 		<property name="assetPath">
-			<value>LD46 Codename Phoenix SFX V05 - TREE FALL - RUSTLE 01.wav</value>
+			<value>WOOD CRACK/LD46 Codename Phoenix SFX V05 - TREE FALL - RUSTLE 01.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

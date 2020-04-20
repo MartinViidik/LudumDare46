@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{845d3426-b164-4613-8613-d915267f1367}">
+		<property name="assetPath">
+			<value>MICE FEEPS/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4a736cfe-fbf4-4a12-a8f6-6bb484da5ee8}</destination>
+		</relationship>
+	</object>
+</objects>

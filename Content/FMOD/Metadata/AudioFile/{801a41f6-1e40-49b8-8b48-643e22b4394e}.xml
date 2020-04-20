@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="AudioFile" id="{801a41f6-1e40-49b8-8b48-643e22b4394e}">
 		<property name="assetPath">
-			<value>LD46 Codename Phoenix SFX V05 - SFX PUT LOG FIRE 03.wav</value>
+			<value>LOGS ON FIRE/LD46 Codename Phoenix SFX V05 - SFX PUT LOG FIRE 03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

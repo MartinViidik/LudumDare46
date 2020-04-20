@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="AudioFile" id="{863d2f02-31a9-4d62-8b11-99dbb53f088e}">
 		<property name="assetPath">
-			<value>LD46 Codename Phoenix SFX V05 - UI MISC 01.wav</value>
+			<value>UI SOUNDS/LD46 Codename Phoenix SFX V05 - UI MISC 01.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
